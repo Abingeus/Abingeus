@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abingeus" /> </div>
 
 ###  👋Visit
-
-<div align="center"> <img src="https://profile-counter.glitch.me/Abingeus/count.svg" /> </div>
+<div align="left"> <img src="https://profile-counter.glitch.me/Abingeus/count.svg" /> </div>
 
