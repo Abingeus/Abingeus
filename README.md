@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <!--
 **Abingeus/Abingeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 ### ⭐️ &nbsp;Github Star
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abingeus&count_private=true&show_icons=true"/>
+<img src="https://profile-counter.glitch.me/Abingeus/count.svg" />
