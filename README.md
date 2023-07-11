@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abingeus&count_private=true&show_icons=true"/>
 
 
-### Languages![](https://visitor-badge.glitch.me/badge?page_id=Abingeus.readme)
+### Languages
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abingeus" /> </div>
 
 ###  👋Visit
