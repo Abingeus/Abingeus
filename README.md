@@ -1,5 +1,6 @@
 ## Hi there 👋
 ## 🌱 I’m a novice and currently learning web and how to use github
+## 🔭 Algorithm
 <!--
 **Abingeus/Abingeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
