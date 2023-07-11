@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+## 🌱 I’m a novice and currently learning web and how to use github
 <!--
 **Abingeus/Abingeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +18,9 @@ Here are some ideas to get you started:
 ### ⭐️ &nbsp;Github Star
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abingeus&count_private=true&show_icons=true"/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Abingeus.readme)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abingeus" /> </div>
+
+### Languages![](https://visitor-badge.glitch.me/badge?page_id=Abingeus.readme)
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abingeus" /> </div>
 
 ###  👋Visit
 <div align="left"> <img src="https://profile-counter.glitch.me/Abingeus/count.svg" /> </div>
